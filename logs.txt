@@ -159,3 +159,7 @@ Logged at 10/25/2021 6:35:06 PM at 10/25/2021 6:35:06 PM
 Error: student not found in database to add Course at 10/25/2021 6:35:19 PM
 Logged at 10/25/2021 6:35:41 PM at 10/25/2021 6:35:41 PM
 Students displayed on Console at 10/25/2021 6:35:44 PM
+Logged at 10/27/2021 5:34:22 PM at 10/27/2021 5:34:22 PM
+Logged at 10/27/2021 5:35:00 PM at 10/27/2021 5:35:00 PM
+-> Student added to database at 10/27/2021 5:35:20 PM
+Logged at 10/27/2021 5:37:28 PM at 10/27/2021 5:37:28 PM
