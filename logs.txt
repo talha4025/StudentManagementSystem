@@ -1,0 +1,161 @@
+Logged at 10/21/2021 2:18:16 PM
+Student Searched
+Logged at 10/21/2021 2:21:17 PM
+Students displayed on Console
+Student Searched
+Logged at 10/21/2021 2:29:54 PM
+Logged at 10/21/2021 2:32:59 PM
+Logged at 10/21/2021 2:35:07 PM
+Logged at 10/21/2021 2:35:39 PM
+Logged at 10/21/2021 2:39:25 PM
+Logged at 10/21/2021 2:40:09 PM
+Logged at 10/21/2021 2:41:13 PM
+Logged at 10/21/2021 2:43:14 PM
+Logged at 10/21/2021 2:44:06 PM
+Logged at 10/21/2021 2:44:47 PM
+Logged at 10/21/2021 2:45:01 PM
+Student added to database
+Logged at 10/21/2021 2:46:27 PM
+Logged at 10/21/2021 2:49:15 PM
+-> Student added to database
+Logged at 10/21/2021 2:54:07 PM
+Logged at 10/21/2021 3:09:16 PM
+Error: student not found in database
+Logged at 10/21/2021 3:13:22 PM at 10/21/2021 3:13:22 PM
+Student deleted from database at 10/21/2021 3:14:00 PM
+Logged at 10/21/2021 3:19:03 PM at 10/21/2021 3:19:03 PM
+Error: student not found in database at 10/21/2021 3:19:08 PM
+Error: student not found in database at 10/21/2021 3:19:18 PM
+Logged at 10/21/2021 3:22:02 PM at 10/21/2021 3:22:02 PM
+Error: student not found in database at 10/21/2021 3:22:05 PM
+Logged at 10/21/2021 3:25:25 PM at 10/21/2021 3:25:25 PM
+Students displayed on Console at 10/21/2021 3:25:30 PM
+Logged at 10/21/2021 3:30:14 PM at 10/21/2021 3:30:14 PM
+Error: student not found in database at 10/21/2021 3:30:29 PM
+Logged at 10/21/2021 3:30:57 PM at 10/21/2021 3:30:57 PM
+Logged at 10/21/2021 3:40:42 PM at 10/21/2021 3:40:42 PM
+Students displayed on Console at 10/21/2021 3:40:47 PM
+Invalid Input Type at 10/21/2021 3:40:54 PM
+Logged at 10/21/2021 3:43:58 PM at 10/21/2021 3:43:58 PM
+Students displayed on Console at 10/21/2021 3:44:06 PM
+Student deleted from database at 10/21/2021 3:44:17 PM
+Invalid Input Type at 10/21/2021 3:44:26 PM
+Logged at 10/21/2021 3:46:03 PM at 10/21/2021 3:46:03 PM
+Student deleted from database at 10/21/2021 3:46:10 PM
+Logged at 10/21/2021 3:53:03 PM at 10/21/2021 3:53:03 PM
+Student Searched in database by ID at 10/21/2021 3:53:15 PM
+Logged at 10/21/2021 4:02:05 PM at 10/21/2021 4:02:05 PM
+Logged at 10/21/2021 4:25:38 PM at 10/21/2021 4:25:38 PM
+Logged at 10/22/2021 10:41:59 AM at 10/22/2021 10:41:59 AM
+Logged at 10/22/2021 10:52:49 AM at 10/22/2021 10:52:49 AM
+Students displayed on Console at 10/22/2021 10:52:55 AM
+Students displayed on Console at 10/22/2021 10:54:14 AM
+Logged at 10/22/2021 10:59:18 AM at 10/22/2021 10:59:18 AM
+Students displayed on Console at 10/22/2021 10:59:24 AM
+Logged at 10/22/2021 2:18:44 PM at 10/22/2021 2:18:44 PM
+Student deleted from database at 10/22/2021 2:18:50 PM
+Students displayed on Console at 10/22/2021 2:18:56 PM
+Student deleted from database at 10/22/2021 2:19:02 PM
+Students displayed on Console at 10/22/2021 2:19:06 PM
+Logged at 10/22/2021 2:21:10 PM at 10/22/2021 2:21:10 PM
+Error: student not found in database at 10/22/2021 2:21:15 PM
+Logged at 10/22/2021 2:21:53 PM at 10/22/2021 2:21:53 PM
+Error: student not found in database at 10/22/2021 2:21:58 PM
+Logged at 10/22/2021 2:23:19 PM at 10/22/2021 2:23:19 PM
+-> Student added to database at 10/22/2021 2:23:39 PM
+Students displayed on Console at 10/22/2021 2:23:48 PM
+Logged at 10/22/2021 2:26:00 PM at 10/22/2021 2:26:00 PM
+Logged at 10/22/2021 2:37:41 PM at 10/22/2021 2:37:41 PM
+Course added to Student profile in database at 10/22/2021 2:38:00 PM
+Students displayed on Console at 10/22/2021 2:44:22 PM
+Student Searched in database by ID at 10/22/2021 2:44:30 PM
+Logged at 10/22/2021 2:44:51 PM at 10/22/2021 2:44:51 PM
+Student Searched in database by ID at 10/22/2021 2:45:00 PM
+Logged at 10/22/2021 2:50:21 PM at 10/22/2021 2:50:21 PM
+Logged at 10/22/2021 2:55:51 PM at 10/22/2021 2:55:51 PM
+Logged at 10/24/2021 2:52:02 PM at 10/24/2021 2:52:02 PM
+Logged at 10/24/2021 2:53:22 PM at 10/24/2021 2:53:22 PM
+Logged at 10/24/2021 2:54:22 PM at 10/24/2021 2:54:22 PM
+Logged at 10/24/2021 4:25:41 PM at 10/24/2021 4:25:41 PM
+Input string was not in a correct format. at 10/24/2021 4:25:45 PM
+Logged at 10/24/2021 4:32:19 PM at 10/24/2021 4:32:19 PM
+Student deleted from database at 10/24/2021 4:32:23 PM
+Logged at 10/24/2021 4:35:42 PM at 10/24/2021 4:35:42 PM
+Students displayed on Console at 10/24/2021 4:35:44 PM
+Logged at 10/24/2021 4:39:03 PM at 10/24/2021 4:39:03 PM
+Logged at 10/24/2021 4:41:27 PM at 10/24/2021 4:41:27 PM
+No Students Found in Database at 10/24/2021 4:41:29 PM
+Student deleted from database at 10/24/2021 4:41:38 PM
+Logged at 10/24/2021 4:43:09 PM at 10/24/2021 4:43:09 PM
+Logged at 10/24/2021 4:43:20 PM at 10/24/2021 4:43:20 PM
+Logged at 10/24/2021 4:43:44 PM at 10/24/2021 4:43:44 PM
+Logged at 10/24/2021 4:45:16 PM at 10/24/2021 4:45:16 PM
+Logged at 10/24/2021 4:46:37 PM at 10/24/2021 4:46:37 PM
+Logged at 10/24/2021 4:46:52 PM at 10/24/2021 4:46:52 PM
+Logged at 10/24/2021 4:47:52 PM at 10/24/2021 4:47:52 PM
+Logged at 10/24/2021 4:48:04 PM at 10/24/2021 4:48:04 PM
+Error: student not found in database at 10/24/2021 4:48:07 PM
+Logged at 10/24/2021 4:49:00 PM at 10/24/2021 4:49:00 PM
+Error: student not found in database at 10/24/2021 4:49:22 PM
+Logged at 10/24/2021 4:50:38 PM at 10/24/2021 4:50:38 PM
+No Students Found in Database at 10/24/2021 4:50:40 PM
+Logged at 10/24/2021 4:54:00 PM at 10/24/2021 4:54:00 PM
+Logged at 10/24/2021 4:54:12 PM at 10/24/2021 4:54:12 PM
+Error: student not found in database at 10/24/2021 4:54:13 PM
+Logged at 10/24/2021 4:56:04 PM at 10/24/2021 4:56:04 PM
+Error: student not found in database at 10/24/2021 4:56:07 PM
+Logged at 10/24/2021 4:56:25 PM at 10/24/2021 4:56:25 PM
+Error: student not found in database at 10/24/2021 4:56:29 PM
+Logged at 10/24/2021 5:18:31 PM at 10/24/2021 5:18:31 PM
+-> Student added to database at 10/24/2021 5:18:51 PM
+Students displayed on Console at 10/24/2021 5:18:56 PM
+Logged at 10/24/2021 5:21:14 PM at 10/24/2021 5:21:14 PM
+Logged at 10/24/2021 5:21:26 PM at 10/24/2021 5:21:26 PM
+Logged at 10/24/2021 5:22:15 PM at 10/24/2021 5:22:15 PM
+Logged at 10/24/2021 5:23:31 PM at 10/24/2021 5:23:31 PM
+Students displayed on Console at 10/24/2021 5:23:35 PM
+Logged at 10/24/2021 5:24:09 PM at 10/24/2021 5:24:09 PM
+Course added to Student profile in database at 10/24/2021 5:24:31 PM
+Students displayed on Console at 10/24/2021 5:24:35 PM
+Logged at 10/24/2021 5:42:20 PM at 10/24/2021 5:42:20 PM
+Logged at 10/24/2021 5:59:07 PM at 10/24/2021 5:59:07 PM
+Logged at 10/24/2021 6:01:24 PM at 10/24/2021 6:01:24 PM
+Logged at 10/24/2021 6:01:53 PM at 10/24/2021 6:01:53 PM
+Logged at 10/24/2021 6:23:40 PM at 10/24/2021 6:23:40 PM
+Course added to Student profile in database at 10/24/2021 6:24:44 PM
+Logged at 10/24/2021 6:25:40 PM at 10/24/2021 6:25:40 PM
+Logged at 10/24/2021 6:27:25 PM at 10/24/2021 6:27:25 PM
+Course added to Student profile in database at 10/24/2021 6:28:39 PM
+Logged at 10/24/2021 6:34:17 PM at 10/24/2021 6:34:17 PM
+Course added to Student profile in database at 10/24/2021 6:34:29 PM
+Logged at 10/24/2021 6:39:49 PM at 10/24/2021 6:39:49 PM
+Course added to Student profile in database at 10/24/2021 6:39:59 PM
+Logged at 10/24/2021 6:45:11 PM at 10/24/2021 6:45:11 PM
+Logged at 10/24/2021 6:47:20 PM at 10/24/2021 6:47:20 PM
+Logged at 10/24/2021 6:49:53 PM at 10/24/2021 6:49:53 PM
+Logged at 10/24/2021 6:51:03 PM at 10/24/2021 6:51:03 PM
+Error: student not found in database at 10/24/2021 6:51:06 PM
+Logged at 10/24/2021 6:51:15 PM at 10/24/2021 6:51:15 PM
+-> Student added to database at 10/24/2021 6:51:41 PM
+Course added to Student profile in database at 10/24/2021 6:52:11 PM
+Logged at 10/24/2021 6:53:13 PM at 10/24/2021 6:53:13 PM
+Logged at 10/24/2021 6:53:21 PM at 10/24/2021 6:53:21 PM
+Course added to Student profile in database at 10/24/2021 6:53:36 PM
+Logged at 10/24/2021 6:55:12 PM at 10/24/2021 6:55:12 PM
+Students displayed on Console at 10/24/2021 6:55:15 PM
+Student Searched in database by ID at 10/24/2021 7:01:26 PM
+Student deleted from database at 10/24/2021 7:01:52 PM
+Logged at 10/25/2021 12:07:41 PM at 10/25/2021 12:07:41 PM
+No Students Found in Database at 10/25/2021 12:08:07 PM
+Logged at 10/25/2021 12:23:14 PM at 10/25/2021 12:23:14 PM
+Logged at 10/25/2021 12:24:37 PM at 10/25/2021 12:24:37 PM
+-> Student added to database at 10/25/2021 12:24:53 PM
+Students displayed on Console at 10/25/2021 12:24:56 PM
+Course added to Student profile in database at 10/25/2021 12:25:10 PM
+Course added to Student profile in database at 10/25/2021 12:25:25 PM
+Students displayed on Console at 10/25/2021 12:25:29 PM
+Student Searched in database by ID at 10/25/2021 12:25:35 PM
+Logged at 10/25/2021 6:35:06 PM at 10/25/2021 6:35:06 PM
+Error: student not found in database to add Course at 10/25/2021 6:35:19 PM
+Logged at 10/25/2021 6:35:41 PM at 10/25/2021 6:35:41 PM
+Students displayed on Console at 10/25/2021 6:35:44 PM
