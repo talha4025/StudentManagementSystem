@@ -8,7 +8,8 @@ namespace BusinessLayer.Utilities
     public interface ICRUD
     {
         void AddCourse(Courses course);
-        void Create(Students student);
+        bool Create(Students student);
+        void Create1(Students student);
         void Delete(int Id);
         List<Students> GetAll();
         Students Search(int Id);

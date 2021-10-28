@@ -76,3 +76,4 @@ C:\Users\Muhammad Talha\source\repos\StudentManageSystem\StudentManageSystem\bin
 C:\Users\Muhammad Talha\source\repos\StudentManageSystem\StudentManageSystem\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
 C:\Users\Muhammad Talha\source\repos\StudentManageSystem\StudentManageSystem\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
 C:\Users\Muhammad Talha\source\repos\StudentManageSystem\StudentManageSystem\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\Muhammad Talha\source\repos\StudentManageSystem\StudentManageSystem\obj\Debug\netcoreapp3.1\StudentManageSystem.csproj.CopyComplete

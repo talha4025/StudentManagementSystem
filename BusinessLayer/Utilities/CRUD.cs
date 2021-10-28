@@ -15,13 +15,27 @@ namespace BusinessLayer.Utilities
         {
             context = new OperationsContext();
         }
-        
-        //Create a new record in databse
-        public void Create(Students student)
+        public CRUD(DbContextOptions<OperationsContext> options)
         {
-            context.Student.Add(student);
-            context.SaveChanges();
+            context = new OperationsContext(options);
+            context.Database.EnsureCreated();
         }
+
+        //Create a new record in databse
+        public bool Create(Students student)
+        {
+            try
+            {
+                context.Student.Add(student);
+                context.SaveChanges();
+            }
+            catch
+            {
+                return false;
+            }
+            return true;
+        }
+
 
         //Update an existing record in database
         public void Update(Students student)
