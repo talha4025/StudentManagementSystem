@@ -38,21 +38,29 @@ namespace BusinessLayer.Utilities
 
 
         //Update an existing record in database
-        public void Update(Students student)
+        public bool Update(Students student)
         {
             Students _student = null;
-            _student = context.Student.Where(s => s.Id == student.Id).FirstOrDefault<Students>();
-            if (_student != null)
+            try
             {
-                _student.FirstName = student.FirstName;
-                _student.LastName = student.LastName;
-                _student.Gender = student.Gender;
-                _student.Address = student.Address;
-                _student.ContactInfo = student.ContactInfo;
-                _student.Department = student.Department;
-                context.Entry<Students>(_student).State = EntityState.Modified;
-                context.SaveChanges();
+                _student = context.Student.Where(s => s.Id == student.Id).FirstOrDefault<Students>();
+                if (_student != null)
+                {
+                    _student.FirstName = student.FirstName;
+                    _student.LastName = student.LastName;
+                    _student.Gender = student.Gender;
+                    _student.Address = student.Address;
+                    _student.ContactInfo = student.ContactInfo;
+                    _student.Department = student.Department;
+                    context.Entry<Students>(_student).State = EntityState.Modified;
+                    context.SaveChanges();
+                }
             }
+            catch
+            {
+                return false;
+            }
+            return true;
         }
 
         //Search a record in database by ID and return a student object

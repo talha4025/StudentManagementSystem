@@ -9,11 +9,10 @@ namespace BusinessLayer.Utilities
     {
         void AddCourse(Courses course);
         bool Create(Students student);
-        void Create1(Students student);
         void Delete(int Id);
         List<Students> GetAll();
         Students Search(int Id);
-        void Update(Students student);
+        bool Update(Students student);
         void UpdateCgpa(int studentId);
     }
 }

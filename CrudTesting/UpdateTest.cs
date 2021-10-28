@@ -1,24 +1,18 @@
-﻿using System;
+﻿using BusinessLayer.DataAccess;
+using BusinessLayer.Utilities;
+using Microsoft.Data.Sqlite;
+using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Text;
-using BusinessLayer;
-using BusinessLayer.DataAccess;
-using BusinessLayer.Utilities;
-using Microsoft.EntityFrameworkCore;
 using Xunit;
-using Microsoft.EntityFrameworkCore.Sqlite;
-using Microsoft.EntityFrameworkCore.InMemory;
-using System.Linq;
-using Microsoft.Data.Sqlite;
 
 namespace CrudTesting
 {
-    public class CreateTest
+    public class UpdateTest
     {
-        //const string connectionString= "Data Source=.;Initial Catalog=UnitTesting;Integrated Security=True";
-
         [Fact]
-        public void Create_ShouldCreateRecord()
+        public void Update_ShouldUpdateRecord()
         {
             var connectionStringBuilder = new SqliteConnectionStringBuilder("DataSource=:memory:");
             var connectionString = connectionStringBuilder.ToString();
@@ -27,10 +21,10 @@ namespace CrudTesting
             var builder = new DbContextOptionsBuilder<OperationsContext>().UseSqlite(connection);
             Students student = new Students
             {
-                FirstName = "Talha",
+                FirstName = "Ali",
                 LastName = "Malik",
                 Address = "Islamabad",
-                ContactInfo = "",
+                ContactInfo = "2342342423434",
                 Department = "CS",
                 Gender = "Male",
                 CGPA = 0
@@ -39,15 +33,15 @@ namespace CrudTesting
             ICRUD cRUD = new CRUD(builder.Options);
             cRUD.Create(student);
 
-            var stud = cRUD.Search(1);
-            Assert.NotNull(stud);
+            student.Department = "EE";
+
+            //var stud = cRUD.Search(1);
+            Assert.True(cRUD.Update(student));
 
         }
-
         [Fact]
-        public void Create_ShouldNotCreate()
+        public void Update_ShouldNotUpdateRecord()
         {
-            
             var connectionStringBuilder = new SqliteConnectionStringBuilder("DataSource=:memory:");
             var connectionString = connectionStringBuilder.ToString();
             var connection = new SqliteConnection(connectionString);
@@ -55,20 +49,23 @@ namespace CrudTesting
             var builder = new DbContextOptionsBuilder<OperationsContext>().UseSqlite(connection);
             Students student = new Students
             {
-                FirstName = null,
+                FirstName = "Ali",
                 LastName = "Malik",
                 Address = "Islamabad",
-                ContactInfo = "",
+                ContactInfo = "2342342423434",
                 Department = "CS",
-                Gender = null,
+                Gender = "Male",
                 CGPA = 0
             };
 
             ICRUD cRUD = new CRUD(builder.Options);
-            
+            cRUD.Create(student);
+
+            student.FirstName = null;
 
             //var stud = cRUD.Search(1);
-            Assert.False(cRUD.Create(student));
+            Assert.False(cRUD.Update(student));
+
         }
     }
 }
