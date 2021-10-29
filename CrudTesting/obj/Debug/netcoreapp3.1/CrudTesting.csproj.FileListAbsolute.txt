@@ -176,3 +176,7 @@ C:\Users\Muhammad Talha\source\repos\StudentManageSystem\CrudTesting\bin\Debug\n
 C:\Users\Muhammad Talha\source\repos\StudentManageSystem\CrudTesting\obj\Debug\netcoreapp3.1\CrudTesting.dll
 C:\Users\Muhammad Talha\source\repos\StudentManageSystem\CrudTesting\obj\Debug\netcoreapp3.1\CrudTesting.pdb
 C:\Users\Muhammad Talha\source\repos\StudentManageSystem\CrudTesting\obj\Debug\netcoreapp3.1\CrudTesting.genruntimeconfig.cache
+C:\Users\Muhammad Talha\source\repos\StudentManageSystem\CrudTesting\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Muhammad Talha\source\repos\StudentManageSystem\CrudTesting\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Muhammad Talha\source\repos\StudentManageSystem\CrudTesting\bin\Debug\netcoreapp3.1\System.IO.Abstractions.dll
+C:\Users\Muhammad Talha\source\repos\StudentManageSystem\CrudTesting\bin\Debug\netcoreapp3.1\System.IO.Abstractions.TestingHelpers.dll

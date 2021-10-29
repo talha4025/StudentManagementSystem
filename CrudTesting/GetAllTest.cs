@@ -22,24 +22,24 @@ namespace CrudTesting
             var builder = new DbContextOptionsBuilder<OperationsContext>().UseSqlite(connection);
             var options = builder.Options;
 
-            //Students student = new Students
-            //{
-            //    FirstName = "Ali",
-            //    LastName = "Malik",
-            //    Address = "Islamabad",
-            //    ContactInfo = "2342342423434",
-            //    Department = "CS",
-            //    Gender = "Male",
-            //    CGPA = 0
-            //};
+            Students student = new Students
+            {
+                FirstName = "Ali",
+                LastName = "Malik",
+                Address = "Islamabad",
+                ContactInfo = "2342342423434",
+                Department = "CS",
+                Gender = "Male",
+                CGPA = 0
+            };
 
             ICRUD cRUD = new CRUD(options);
-            //cRUD.Create(student);
+            cRUD.Create(student);
 
             Assert.NotEmpty(cRUD.GetAll());
             connection.Dispose();
 
-
+ 
         }
     }
 }

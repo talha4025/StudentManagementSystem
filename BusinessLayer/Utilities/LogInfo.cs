@@ -14,7 +14,14 @@ namespace BusinessLayer.Utilities
         public void Log(string logMessage)
         {
             string fileName = @"C:\Users\Muhammad Talha\source\repos\StudentManageSystem\logs.txt";
-            if(!File.Exists(fileName))
+            LogToFile(logMessage, fileName);
+            
+            
+        }
+
+        public void LogToFile(string logMessage, string fileName)
+        {
+            if (!File.Exists(fileName))
             {
                 StreamWriter sw = File.CreateText(fileName);
             }
@@ -29,14 +36,13 @@ namespace BusinessLayer.Utilities
                         //sw.Flush();
                         //sw.Close();
                         //fs.Close();
-                    }        
+                    }
                 }
             }
             catch (IOException)
             {
-                Console.WriteLine("Log File Not FOund");            
+                Console.WriteLine("Log File Not FOund");
             }
-            
         }
     }
 }

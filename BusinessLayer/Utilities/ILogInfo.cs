@@ -7,5 +7,6 @@
     public interface ILogInfo
     {
         void Log(string logMessage);
+        void LogToFile(string logMessage, string fileName);
     }
 }
