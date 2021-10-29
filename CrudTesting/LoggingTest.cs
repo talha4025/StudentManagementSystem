@@ -1,5 +1,4 @@
 ﻿using BusinessLayer.Utilities;
-using Moq;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -20,6 +19,8 @@ namespace CrudTesting
             log.LogToFile(message, fileName);
 
             Assert.True(File.Exists(fileName));
+            Assert.NotEqual(0, new FileInfo(fileName).Length);
+            //if(==0)
             File.Delete(fileName);
 
         }
