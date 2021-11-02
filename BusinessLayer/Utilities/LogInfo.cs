@@ -23,7 +23,7 @@ namespace BusinessLayer.Utilities
         {
             if (!File.Exists(fileName))
             {
-                StreamWriter sw = File.CreateText(fileName);
+                using StreamWriter sw = File.CreateText(fileName);
             }
             try
             {

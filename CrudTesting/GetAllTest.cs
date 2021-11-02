@@ -35,8 +35,10 @@ namespace CrudTesting
 
             ICRUD cRUD = new CRUD(options);
             cRUD.Create(student);
+            List<Students> studentsList = cRUD.GetAll();
 
-            Assert.NotEmpty(cRUD.GetAll());
+            Assert.NotEmpty(studentsList);
+            Assert.Equal(student,studentsList[0]);
             connection.Dispose();
 
  
